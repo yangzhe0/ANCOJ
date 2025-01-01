@@ -1,4 +1,4 @@
-n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,o-c,Flag R
+n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,O-C,Flag R
 [ESO],[3o1],[1985],[6],[3],[11],[3],[49.23],[57.173],[0.0119],[0.6423],[3]
 [FIG],[3o4],[1985],[6],[17],[1],[45],[35.48],[340.569],[0.0855],[0.1479],[0]
 [OHP],[4o3],[1985],[7],[12],[0],[41],[9.04],[341.139],[0.0223],[0.2804],[3]

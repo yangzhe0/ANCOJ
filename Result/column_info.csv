@@ -1,7 +1,7 @@
 Column Name,Count,Files
 year,199,
 mon,198,
-day,195,
+day,196,
 n-sat,177,
 y-d,154,
 y-',154,
@@ -22,201 +22,197 @@ jd,23,
 dec,23,
 ra,22,
 na+np,22,
+O-C(X),19,
+O-C(Y),19,
 Position angle,19,
 n-ref,18,
-O-C(X),18,
-O-C(Y),18,
 X,14,
 Y,14,
 Z,13,
 sigma,11,
 s,10,
 n-tel,10,
-s-x,9,jg0025; jg0027; jg0035; jg0038; jg0047; jg0057; jg0063; jg0065; jg0067
-s-y,9,jg0025; jg0027; jg0035; jg0038; jg0047; jg0057; jg0063; jg0065; jg0067
-Flag Q,9,jg0025; jg0027; jg0035; jg0038; jg0047; jg0057; jg0063; jg0065; jg0067
-S min,9,jg0025; jg0027; jg0035; jg0038; jg0047; jg0057; jg0063; jg0065; jg0067
-Flag R,9,jg0026; jg0028; jg0036; jg0039; jg0048; jg0058; jg0064; jg0066; jg0068
-e-ra,9,jg0054; jg0055; jg0056; jg0059; jg0060; jg0072; jg0074; jo0056; jo1051
-e-dec,9,jg0054; jg0055; jg0056; jg0059; jg0060; jg0072; jg0074; jo0056; jo1051
-Epoch_TCB,6,jg0069; jg0073; jo0069; jo0077; jo1057; jo1061
-n-ober,5,jg0013; jo1001; jo1002; jo1004; jo1005
-cat,5,jg0040; jg0042; jo0053; jo0057; jo0058
-n,5,jg0050; jg0051; jg0061; jg0062; ji0018
-oc-ra,5,jg0054; jg0055; jg0056; jg0059; jg0060
-oc-dec,5,jg0054; jg0055; jg0056; jg0059; jg0060
-u-x,5,jo0014; jo0015; jo0016; jo0017; jo0018
-u-y,5,jo0014; jo0015; jo0016; jo0017; jo0018
-type,4,jg0008; jg0009; jg0034; jo0035
-mjd,3,jg0020; jg0021; ji0007
-parallax,3,jg0022; jg0023; jo0053
-O-C,3,jg0039; jg0048; jg0058
-dra,3,jg0055; jg0056; jg0060
-ddec,3,jg0055; jg0056; jg0060
-AeP/AoP,3,jg0061; jg0062; ji0018
-e-time,3,jg0061; jg0062; ji0018
-dt*v,3,jg0061; jg0062; ji0018
-imp.par,3,jg0061; jg0062; ji0018
-e-imp.par,3,jg0061; jg0062; ji0018
-d-imp.par,3,jg0061; jg0062; ji0018
-v,3,jg0061; jg0062; ji0018
-e-v,3,jg0061; jg0062; ji0018
-d-v,3,jg0061; jg0062; ji0018
-rms,3,jg0061; jg0062; ji0018
-x2,3,jg0061; jg0062; ji0018
-o-c,3,jg0064; jg0066; jg0068
-sat,3,jg0069; jg0073; jg0074
-Reference to publication,3,jo1038; jo1039; jo1040
-n-ser,2,jg0001; jg0013
-n-ccd,2,jg0010; ji0003
-na,2,jg0020; jg0021
-np,2,jg0020; jg0021
-r,2,jg0020; jg0021
-ta,2,jg0020; jg0021
-tp,2,jg0020; jg0021
-x(0),2,jg0020; jg0021
-y(0),2,jg0020; jg0021
-ax,2,jg0020; jg0021
-ay,2,jg0020; jg0021
-bx,2,jg0020; jg0021
-by,2,jg0020; jg0021
-bz,2,jg0020; jg0021
-sat1,2,jg0050; jg0051
-sat2,2,jg0050; jg0051
-s-sec,2,jg0050; jg0051
-s-mas,2,jg0050; jg0051
-delta-sec,2,jg0050; jg0051
-delta-mas,2,jg0050; jg0051
-z,2,jg0069; jg0073
-j-x-h,2,ji0010; ji0011
-j-x-m,2,ji0010; ji0011
-j-x-s,2,ji0010; ji0011
-j-y-d,2,ji0010; ji0011
-j-y-',2,ji0010; ji0011
-j-y-'',2,ji0010; ji0011
-5-x-h,2,ji0010; ji0011
-5-x-m,2,ji0010; ji0011
-5-x-s,2,ji0010; ji0011
-5-y-d,2,ji0010; ji0011
-5-y-',2,ji0010; ji0011
-5-y-'',2,ji0010; ji0011
-Parallax,2,jo0040; jo0043
-Filter,2,jo0056; jo1051
-P,2,jo0077; jo1061
-mag R,2,jo1042; jo1045
-id,1,jg0001
-n-plate,1,jg0001
-j1-x,1,jg0001
-j2-x,1,jg0001
-j3-x,1,jg0001
-j4-x,1,jg0001
-j1-y,1,jg0001
-j2-y,1,jg0001
-j3-y,1,jg0001
-j4-y,1,jg0001
-factor,1,jg0001
-Origin of the coordinates,1,jg0001
-Day of the moment of observation with decimals,1,jg0002
-O-C(X)e ,1,jg0002
-O-C(Y)e,1,jg0002
-alpha.hours,1,jg0003
-delta.Degrees,1,jg0003
-month,1,jg0004
-JD,1,jg0004
-sce,1,jg0006
-gmt-h,1,jg0007
-gmt-m,1,jg0007
-Type of coordinate,1,jg0007
-"Apparent distance, arcsec",1,jg0007
-Refraction,1,jg0008
-n-line,1,jg0009
-x/y,1,jg0009
-x-p,1,jg0010
-y-p,1,jg0010
-n-f,1,jg0013
-n-c,1,jg0013
-x-j1,1,jg0013
-x-j2,1,jg0013
-x-j3,1,jg0013
-x-j4,1,jg0013
-y-j1,1,jg0013
-y-j2,1,jg0013
-y-j3,1,jg0013
-y-j4,1,jg0013
-scale,1,jg0013
-n-opp,1,jg0013
-ev,1,jg0014
-eclipsed or occulted,1,jg0014
-dt,1,jg0014
-dx,1,jg0014
-dz,1,jg0014
-jed,1,jg0014
-ph1,1,jg0014
-ph2,1,jg0014
-weight,1,jg0014
-note(latitude correction is not accurate=1),1,jg0014
-wavelength,1,jg0017
-n-tele,1,jg0018
-err,1,jg0024
-v-mag,1,jg0024
-Shift,1,jg0029
-Impact paramerter,1,jg0029
-O-C(IP),1,jg0029
-F1,1,jg0029
-F2,1,jg0029
-C15,1,jg0029
-n-pla,1,jg0030
-Epoch,1,jg0033
-epoch,1,jg0034
-say,1,jg0038
-mon.1,1,jg0041
-tele/cat,1,jg0041
-Model,1,jg0049
-s-ocx,1,jg0049
-s-ocy,1,jg0049
-cml,1,jg0049
-Impact parameter in arcseconds,1,jg0049
-Impact parameter in kilometers,1,jg0049
-s-arc,1,jg0049
-s-kil,1,jg0049
-"dtau, seconds",1,jg0052
-"P, deg",1,jg0052
-C,1,jg0052
-magb,1,jg0053
-magv,1,jg0053
-siga,1,jg0053
-sigd,1,jg0053
-ro,1,jg0053
-s-ra,1,jg0056
-s-dec,1,jg0056
-x-cal,1,ji0003
-y-cal,1,ji0003
-Separation,1,ji0006
-wave length,1,ji0012
-tdb,1,ji0015
-frame,1,ji0017
-size,1,ji0017
-rac,1,ji0017
-decc,1,ji0017
-twist,1,ji0017
-sample,1,ji0017
-line,1,ji0017
-date,1,jo0010
-u,1,jo0013
-Type,1,jo0016
-x-h-j,1,jo0017
-x-m-j,1,jo0017
-x-s-j,1,jo0017
-j-y-j,1,jo0017
-y-'-j,1,jo0017
-y-''-j,1,jo0017
-Exposure time,1,jo0018
-Time of exposition,1,jo0033
-n-site,1,jo0033
-dau,1,jo0065
-p1,1,jo0066
-ex,1,jo0066
-c72,1,jo1035
-m-mpc,1,jo1035
-c71,1,jo1037
-mag V,1,jo1044
+s-x,9,
+s-y,9,
+Flag Q,9,
+S min,9,
+Flag R,9,
+e-ra,9,
+e-dec,9,
+O-C,6,
+Epoch_TCB,6,
+n-ober,5,
+cat,5,
+n,5,
+oc-ra,5,
+oc-dec,5,
+u-x,5,
+u-y,5,
+type,4,
+mjd,3,
+parallax,3,
+dra,3,
+ddec,3,
+AeP/AoP,3,
+e-time,3,
+dt*v,3,
+imp.par,3,
+e-imp.par,3,
+d-imp.par,3,
+v,3,
+e-v,3,
+d-v,3,
+rms,3,
+x2,3,
+sat,3,
+Reference to publication,3,
+n-ser,2,
+n-ccd,2,
+na,2,
+np,2,
+r,2,
+ta,2,
+tp,2,
+x(0),2,
+y(0),2,
+ax,2,
+ay,2,
+bx,2,
+by,2,
+bz,2,
+sat1,2,
+sat2,2,
+s-sec,2,
+s-mas,2,
+delta-sec,2,
+delta-mas,2,
+z,2,
+j-x-h,2,
+j-x-m,2,
+j-x-s,2,
+j-y-d,2,
+j-y-',2,
+j-y-'',2,
+5-x-h,2,
+5-x-m,2,
+5-x-s,2,
+5-y-d,2,
+5-y-',2,
+5-y-'',2,
+Parallax,2,
+Filter,2,
+P,2,
+mag R,2,
+id,1,
+n-plate,1,
+j1-x,1,
+j2-x,1,
+j3-x,1,
+j4-x,1,
+j1-y,1,
+j2-y,1,
+j3-y,1,
+j4-y,1,
+factor,1,
+Origin of the coordinates,1,
+alpha.hours,1,
+delta.Degrees,1,
+month,1,
+JD,1,
+sce,1,
+gmt-h,1,
+gmt-m,1,
+Type of coordinate,1,
+"Apparent distance, arcsec",1,
+Refraction,1,
+n-line,1,
+x/y,1,
+x-p,1,
+y-p,1,
+n-f,1,
+n-c,1,
+x-j1,1,
+x-j2,1,
+x-j3,1,
+x-j4,1,
+y-j1,1,
+y-j2,1,
+y-j3,1,
+y-j4,1,
+scale,1,
+n-opp,1,
+ev,1,
+eclipsed or occulted,1,
+dt,1,
+dx,1,
+dz,1,
+jed,1,
+ph1,1,
+ph2,1,
+weight,1,
+note(latitude correction is not accurate=1),1,
+wavelength,1,
+n-tele,1,
+err,1,
+v-mag,1,
+Shift,1,
+Impact paramerter,1,
+O-C(IP),1,
+F1,1,
+F2,1,
+C15,1,
+n-pla,1,
+Epoch,1,
+epoch,1,
+say,1,
+mon.1,1,
+tele/cat,1,
+Model,1,
+s-ocx,1,
+s-ocy,1,
+cml,1,
+Impact parameter in arcseconds,1,
+Impact parameter in kilometers,1,
+s-arc,1,
+s-kil,1,
+"dtau, seconds",1,
+"P, deg",1,
+C,1,
+magb,1,
+magv,1,
+siga,1,
+sigd,1,
+ro,1,
+s-ra,1,
+s-dec,1,
+x-cal,1,
+y-cal,1,
+Separation,1,
+wave length,1,
+tdb,1,
+frame,1,
+size,1,
+rac,1,
+decc,1,
+twist,1,
+sample,1,
+line,1,
+date,1,
+u,1,
+Type,1,
+x-h-j,1,
+x-m-j,1,
+x-s-j,1,
+j-y-j,1,
+y-'-j,1,
+y-''-j,1,
+Exposure time,1,
+Time of exposition,1,
+n-site,1,
+dau,1,
+p1,1,
+ex,1,
+c72,1,
+m-mpc,1,
+c71,1,
+mag V,1,

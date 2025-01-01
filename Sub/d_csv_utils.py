@@ -42,7 +42,7 @@ def d_csv_utils(folder_path, sort_by='count'):
         writer.writerow(['Column Name', 'Count', 'Files'])
         for column, count in sorted_columns:
             # 对于出现次数少于10的列，记录文件名
-            files = "; ".join(column_files[column]) if count < 10 else ""
+            files = "; ".join(column_files[column]) if count < 0 else ""
             writer.writerow([column, count, files])
 
     print(f"列名信息输出到 {output_path}")

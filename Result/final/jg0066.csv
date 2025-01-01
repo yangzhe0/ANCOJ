@@ -1,4 +1,4 @@
-n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,o-c,Flag R
+n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,O-C,Flag R
 [OH3],[2o1],[1991],[1],[5],[0],[22],[8.06],[18.213],[0.0239],[0.1458],[0]
 [ZOE],[2e1],[1991],[1],[8],[7],[34],[31.24],[15.756],[0.0173],[0.0318],[0]
 [BA2],[2e3],[1991],[1],[9],[3],[1],[50.59],[196.433],[0.0206],[0.0834],[0]

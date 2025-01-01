@@ -1,4 +1,4 @@
-n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,o-c,Flag R
+n-obs,na+np,year,mon,day,hour,min,sec,Position angle,sigma,O-C,Flag R
 [AUR],[1e4],[2021],[4],[12],[4],[27],[49.03],[160.272],[0.0126],[0.1964],[0]
 [GLE],[4e3],[2021],[4],[19],[18],[38],[53.24],[160.549],[0.0109],[0.0724],[0]
 [GRA],[1e2],[2021],[4],[25],[12],[8],[22.34],[340.206],[0.0020],[0.0278],[0]
